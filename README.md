@@ -43,6 +43,9 @@ Project goal is to find out:
 - A Jupyter Notebook containing the analysis.
 - Datasets: Stack Overflow developer survey 2017
 
+# Results : 
+The insights of the code can be found in the blog - https://medium.com/@bjakhsr1999/do-you-know-insights-of-north-american-web-developers-vs-asian-developers-6e024b9a8ddc?source=friends_link&sk=2b697400aefa6e2e2c754165677c52d9
+
 # Licensing, Authors and Acknowledgements :
 
-The licensing for Kaggle data can be found here.
+The licensing for Kaggle data can be found here- https://www.kaggle.com/stackoverflow/so-survey-2017/data.
